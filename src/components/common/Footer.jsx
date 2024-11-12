@@ -16,7 +16,7 @@ const Footer = () => {
               cool <span>games</span>
             </a>
             <p className="para-text">
-            我係不可避免的. 我會為你哋所有人而來. 記下我嘅話. 你無法逃避我
+            我係必然嘅。我會嚟搵你哋所有人。標記我嘅說話。你逃唔過我
             (I am inevitable. I will come for you all. Mark my words. You can't escape me - Thanos...sort of.)
             </p>
           </div>
