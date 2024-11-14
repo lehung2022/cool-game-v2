@@ -66,7 +66,7 @@ const Navbar = () => {
                 connect
               </li>
               <li className="connect-item">
-                <Link to="https://github.com/lehung2022/cool-game-react" className="connect-link">
+                <Link to="https://github.com/lehung2022/cool-game-v2" className="connect-link">
                   <BsGithub  />
                 </Link>
               </li>
