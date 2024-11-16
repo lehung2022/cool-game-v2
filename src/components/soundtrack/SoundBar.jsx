@@ -1,7 +1,7 @@
 import React, { useRef, useState } from "react";
 import styled, { keyframes } from "styled-components";
 
-import music from "./audio/ashina-genichiro-320kbps.mp3";
+import music from "./audio/track-09-shinjuku.mp3";
 
 const Box = styled.div`
   display: flex;
